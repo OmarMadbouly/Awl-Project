@@ -3,8 +3,8 @@
 
 int main()
 {
-	int x;
-	scanf("%d",&x);
+
     printf("Hello world!\n");
+    printf("good boy");
     return 0;
 }
